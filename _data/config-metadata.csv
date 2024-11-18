@@ -1,15 +1,15 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
+objectid,Object ID
+format,Format
+filename,Filename
+title,Title
+creator,Creator
+date,Date
+date_simple,Date Range
+pageref,Page Reference
+citedtext,Passage in Belinda
+url,URL in Catalog
+interpretation,Scholarly Analysis
+findingaid,Finding Aid
+type,Type,true
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
